@@ -5,7 +5,13 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 # Files
 
- <img src= "https://github.com/othmansh0/markdown_testing/assets/51544418/2e0f602e-bd00-44b2-bb12-cc6c574d7a0e" alt="Markup text processor"/>
+
+
+ <video width="640" height="360" controls>
+  <source src="https://github.com/othmansh0/markdown_testing/assets/51544418/2e0f602e-bd00-44b2-bb12-cc6c574d7a0e" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
