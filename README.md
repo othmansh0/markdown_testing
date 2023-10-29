@@ -5,8 +5,9 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 # Files
 
+![](https://github.com/othmansh0/markdown_testing/blob/3aa34f04dcd3fcfdfc8eb6edda759f5d48b348a6/First-GIFs.gif)
 
-![](https://github.com/othmansh0/markdown_testing/blob/b1/scene-1-final-2.gif)
+![](https://github.com/othmansh0/markdown_testing/blob/3aa34f04dcd3fcfdfc8eb6edda759f5d48b348a6/Second-GIFs.gif)
 
 ## Create files and folders
 
