@@ -6,11 +6,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 # Files
 
 
-
- <video width="640" height="360" controls>
-  <source src="https://github.com/othmansh0/markdown_testing/assets/51544418/2e0f602e-bd00-44b2-bb12-cc6c574d7a0e" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![](https://github.com/othmansh0/markdown_testing/blob/b1/scene-1-final-2.gif)
 
 ## Create files and folders
 
